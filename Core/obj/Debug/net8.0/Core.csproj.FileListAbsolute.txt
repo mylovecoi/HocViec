@@ -1,0 +1,16 @@
+D:\WEB\ASP\HocViec\HocViec\Core\bin\Debug\net8.0\Core.deps.json
+D:\WEB\ASP\HocViec\HocViec\Core\bin\Debug\net8.0\Core.dll
+D:\WEB\ASP\HocViec\HocViec\Core\bin\Debug\net8.0\Core.pdb
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.dll
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\refint\Core.dll
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.pdb
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\ref\Core.dll
+D:\WEB\ASP\HocViec\HocViec\Core\bin\Debug\net8.0\Infrastructure.dll
+D:\WEB\ASP\HocViec\HocViec\Core\bin\Debug\net8.0\Infrastructure.pdb
+D:\WEB\ASP\HocViec\HocViec\Core\obj\Debug\net8.0\Core.csproj.Up2Date

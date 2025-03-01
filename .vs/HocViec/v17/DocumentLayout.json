@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WEB\\ASP\\HocViec\\HocViec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\hocviec\\controllers\\danhmuc\\danhmucloaihangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\controllers\\danhmuc\\danhmucloaihangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\hocviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|d:\\web\\asp\\hocviec\\hocviec\\core\\services\\implements\\danhmucloaihangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|solutionrelative:core\\services\\implements\\danhmucloaihangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|d:\\web\\asp\\hocviec\\hocviec\\core\\services\\interfaces\\idanhmucloaihangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|solutionrelative:core\\services\\interfaces\\idanhmucloaihangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|d:\\web\\asp\\hocviec\\hocviec\\core\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0D3BF3-2D39-4900-B0B8-09BD4DA0CFAC}|Core\\Core.csproj|solutionrelative:core\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\hocviec\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\infrastructure\\models\\danhmuc\\danhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\danhmuc\\danhmucloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\hocviec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\infrastructure\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\hocviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{817FE09E-0A24-4F16-B7EA-F10651A4DBCC}|HocViec\\App.csproj|solutionrelative:hocviec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBA92A1-C922-4FFA-9674-8D246B61C8A6}|Infrastructure\\Infrastructure.csproj|solutionrelative:Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Core\\Mapper\\MapperProfile.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "Core\\Mapper\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:05:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDanhMucLoaiHangService.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Services\\Interfaces\\IDanhMucLoaiHangService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Interfaces\\IDanhMucLoaiHangService.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Services\\Interfaces\\IDanhMucLoaiHangService.cs",
+              "RelativeToolTip": "Core\\Services\\Interfaces\\IDanhMucLoaiHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:45:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMucLoaiHangService.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Services\\Implements\\DanhMucLoaiHangService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Implements\\DanhMucLoaiHangService.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Core\\Services\\Implements\\DanhMucLoaiHangService.cs",
+              "RelativeToolTip": "Core\\Services\\Implements\\DanhMucLoaiHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:44:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhMucLoaiHangController.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\DanhMuc\\DanhMucLoaiHangController.cs",
+              "RelativeDocumentMoniker": "HocViec\\Controllers\\DanhMuc\\DanhMucLoaiHangController.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\DanhMuc\\DanhMucLoaiHangController.cs",
+              "RelativeToolTip": "HocViec\\Controllers\\DanhMuc\\DanhMucLoaiHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:38:48.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250301093554_DanhMucLoaiHang.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250301093554_DanhMucLoaiHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:35:54.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\App.csproj",
+              "RelativeDocumentMoniker": "HocViec\\App.csproj",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\App.csproj",
+              "RelativeToolTip": "HocViec\\App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T09:32:50.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:03:04.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DanhMucLoaiHang.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Models\\DanhMuc\\DanhMucLoaiHang.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\DanhMuc\\DanhMucLoaiHang.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Models\\DanhMuc\\DanhMucLoaiHang.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\DanhMuc\\DanhMucLoaiHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:44:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\appsettings.json",
+              "RelativeDocumentMoniker": "HocViec\\appsettings.json",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\appsettings.json",
+              "RelativeToolTip": "HocViec\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T08:42:01.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Infrastructure\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:29:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:29:06.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HocViec\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HocViec\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:23:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Program.cs",
+              "RelativeDocumentMoniker": "HocViec\\Program.cs",
+              "ToolTip": "D:\\WEB\\ASP\\HocViec\\HocViec\\HocViec\\Program.cs",
+              "RelativeToolTip": "HocViec\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:23:18.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
